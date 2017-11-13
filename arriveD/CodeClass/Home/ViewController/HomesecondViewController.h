@@ -1,0 +1,14 @@
+//
+//  HomesecondViewController.h
+//  arriveD
+//
+//  Created by mibo02 on 17/7/10.
+//  Copyright © 2017年 mibo02. All rights reserved.
+//
+
+#import "BaseViewController.h"
+
+@interface HomesecondViewController : BaseViewController
+
+
+@end
